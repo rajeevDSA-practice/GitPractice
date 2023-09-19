@@ -1,3 +1,4 @@
 # GitPractice
 This is my first Git Project<br>
-Author - Rajeev Prajapati
+Author - Rajeev Prajapati<br>
+New line added
